@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_maps"
+        android:orderInCategory="100"
+        android:title="@string/action_maps"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_move"
+        android:orderInCategory="100"
+        android:title="@string/action_move"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_sensor"
+        android:orderInCategory="100"
+        android:title="@string/action_sensor"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_language"
+        android:orderInCategory="110"
+        android:title="@string/action_language"
+        app:showAsAction="never"/>
+</menu>

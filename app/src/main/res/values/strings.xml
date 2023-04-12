@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">478529_PPPB2_UTS </string>
+
+
+    <string name="label_azimuth_string">Azimuth : </string>
+    <string name="label_pitch_string">Pitch : </string>
+    <string name="label_roll_string">Roll : </string>
+    <string name="value_format">%1$.2f</string>
+
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+    <string name="app_widget_description">This is an app widget description</string>
+    <string name="widget_id_label">Widget ID</string>
+    <string name="widget_update_label">Last Updated</string>
+    <string name="widget_update_button">Update Now</string>
+
+    <string name="title_activity_maps">MapsActivity</string>
+
+    <string name="action_maps">Maps</string>
+    <string name="action_move">Move</string>
+    <string name="action_sensor">Sensor</string>
+    <string name="action_language">Language</string>
+    <string name="date_label">Date</string>
+
+</resources>
